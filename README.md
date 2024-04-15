@@ -1,5 +1,5 @@
 Hey there, Luca here! 
-I am a doctoral student in aerial robotics at ETH Zürich.
+I am a doctoral student researching soft aerial robotics at ETH Zürich.
 
 🔭 I’m currently working on simulating the flight behavior of multirotors with flexible airframes.  
 
