@@ -1,9 +1,10 @@
-### Hi there 👋
-I am a doctoral student in aerial robotics at ETH Zürich! 
+Hey there, Luca here! 
+I am a doctoral student in aerial robotics at ETH Zürich.
 
 🔭 I’m currently working on simulating the flight behavior of multirotors with flexible airframes.  
 
-📫 How to reach me: **email**: ```girardil@ethz.ch``` / **LinkedIn**: ```girardiluca1```
+📫 How to reach me: **email**: [```girardil@ethz.ch```](mailto:girardil@ethz.ch) / **LinkedIn**: [```girardiluca1```](https://www.linkedin.com/in/girardiluca1/)
+
 <!--
 **lucagirardi/lucagirardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
